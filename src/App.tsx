@@ -12,7 +12,7 @@ function App() {
   const { darkMode, toggleDarkMode } = useDarkMode();
 
   useEffect(() => {
-    document.title = 'InnovateTech - 技术创新';
+    document.title = '创梦星际';
   }, []);
 
   return (

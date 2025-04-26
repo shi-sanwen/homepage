@@ -38,7 +38,7 @@ const Github: React.FC = () => {
             
             <div className="px-8 md:px-12 py-6 bg-gray-50 dark:bg-gray-800 border-t border-gray-100 dark:border-gray-700">
               <p className="text-gray-600 dark:text-gray-300 text-center md:text-left">
-                GitHub: @scmgzs
+                GitHub: @是史三问呀
               </p>
             </div>
           </div>
