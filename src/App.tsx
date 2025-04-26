@@ -3,6 +3,8 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import About from './components/About';
+import Contact from './components/Contact';
+import Github from './components/Github';
 import Footer from './components/Footer';
 import useDarkMode from './hooks/useDarkMode';
 
@@ -20,6 +22,8 @@ function App() {
         <Hero />
         <Features />
         <About />
+        <Contact />
+        <Github />
       </main>
       <Footer />
     </div>
