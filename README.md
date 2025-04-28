@@ -29,7 +29,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/scmgzs/modern-website.git
+   git clone https://github.com/shisanwen-gmail/cmxj.git
    ```
 
 2. 安装依赖：
@@ -72,7 +72,7 @@ src/
 
 ## 👨‍💻 开发者
 
-- GitHub: [@shisanwen-gmail](https://github.com/scmgzs)
+- GitHub: [@shisanwen-gmail](https://github.com/shisanwen-gmail)
 - QQ: [点击联系](https://qm.qq.com/q/mf17BazQpW)
 - 邮箱: [2196634956@qq.com](mailto:2196634956@qq.com)
 
