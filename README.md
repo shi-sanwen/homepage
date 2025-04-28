@@ -1,6 +1,6 @@
 # 现代网站介绍
 
-![创梦星际](https://www.scmgzs.top/wp-content/uploads/2024/12/%E5%88%9B%E6%A2%A6%E6%98%9F%E9%99%85.png)
+![创梦星际](https://www.scmgzs.top/)
 
 一个使用 React 和 TypeScript 构建的现代响应式网站，具有精美的 UI 设计、暗黑模式支持、流畅的动画效果和无缝的用户体验。
 
