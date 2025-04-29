@@ -2,6 +2,11 @@
 
 创梦星际: [访问官网](https://www.scmgzs.top/)
 
+一位初中生开发的项目~
+- 如需授权请联系
+- - QQ: [点击联系](https://qm.qq.com/q/mf17BazQpW)
+- 邮箱: [2196634956@qq.com](mailto:2196634956@qq.com)
+
 一个使用 React 和 TypeScript 构建的现代响应式网站，具有精美的 UI 设计、暗黑模式支持、流畅的动画效果和无缝的用户体验。
 
 ## ✨ 特点
@@ -72,9 +77,8 @@ src/
 
 ## 👨‍💻 开发者
 
+## 是史三问呀
 - GitHub: [@shisanwen-gmail](https://github.com/shisanwen-gmail)
-- QQ: [点击联系](https://qm.qq.com/q/mf17BazQpW)
-- 邮箱: [2196634956@qq.com](mailto:2196634956@qq.com)
 
 ## 📄 开源协议
 
