@@ -12,7 +12,7 @@ const About: React.FC = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-500 to-teal-500 rounded-3xl blur opacity-20 dark:opacity-40 animate-pulse"></div>
               <div className="relative">
                 <img
-                  src="https://fileass.song3060.top:10006/i/2025/02/06/hwtx8.png"
+                  src="https://fileass.song3060.top:33073/i/2025/02/06/hwtx8.png"
                   alt="我们的团队"
                   className="rounded-2xl shadow-2xl transform hover:scale-[1.02] transition-transform duration-300"
                 />
