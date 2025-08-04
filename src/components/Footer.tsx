@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
             用技术来打造新的世界，为用户创造价值
           </p>
           <a
-            href="https://www.scmgzs.top"
+            href="https://cmxj.song3060.top/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-medium rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl"
