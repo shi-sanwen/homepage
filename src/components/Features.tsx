@@ -84,7 +84,7 @@ const Features: React.FC = () => {
         
         <div className="mt-20 text-center">
           <a
-            href="https://cmxj.song3060.top/"
+            href="https://www.scmgzs.top"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative inline-flex items-center justify-center px-8 py-4 overflow-hidden rounded-xl bg-gradient-to-r from-emerald-500 to-blue-600 text-white font-medium transition-all duration-300 transform hover:scale-105"

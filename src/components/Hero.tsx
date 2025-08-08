@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
     >
       <div className="absolute inset-0">
         <img 
-          src="https://fileass.song3060.top:10006/i/2025/02/06/hwtx8.png" 
+          src="https://fileass.song3060.top/i/2025/02/06/hwtx8.png"
           alt="Background" 
           className="w-full h-full object-cover opacity-10 dark:opacity-5"
         />
@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a
-                href="https://cmxj.song3060.top/"
+                href="https://www.scmgzs.top"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center justify-center px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-xl transition-all duration-300 transform hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#3b82f6]"

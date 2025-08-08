@@ -9399,7 +9399,7 @@ var Lf = ts.exports,
                     className: "flex flex-col sm:flex-row gap-4 pt-4",
                     children: [
                       f.jsx("a", {
-                        href: "https://cmxj.song3060.top/",
+                        href: "https://www.scmgzs.top",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className:
@@ -9587,7 +9587,7 @@ var Lf = ts.exports,
             f.jsx("div", {
               className: "mt-20 text-center",
               children: f.jsxs("a", {
-                href: "https://cmxj.song3060.top/",
+                href: "https://www.scmgzs.top",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
@@ -9748,7 +9748,7 @@ var Lf = ts.exports,
                     ],
                   }),
                   f.jsx("a", {
-                    href: "https://cmxj.song3060.top/",
+                    href: "https://www.scmgzs.top",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     className:
@@ -9966,7 +9966,7 @@ var Lf = ts.exports,
                   children: "用技术来打造新的世界，为用户创造价值",
                 }),
                 f.jsx("a", {
-                  href: "https://cmxj.song3060.top/",
+                  href: "https://www.scmgzs.top",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
@@ -10013,7 +10013,7 @@ var Lf = ts.exports,
 function ep() {
   const { darkMode: e, toggleDarkMode: t } = bf();
   return (
-    Ee.useEffect(() => {
+    Ee.useEffect(() => {    
       document.title = "创梦星际";
     }, []),
     f.jsxs("div", {

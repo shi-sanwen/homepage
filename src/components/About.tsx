@@ -12,7 +12,7 @@ const About: React.FC = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-500 to-teal-500 rounded-3xl blur opacity-20 dark:opacity-40 animate-pulse"></div>
               <div className="relative">
                 <img
-                  src="https://fileass.song3060.top:33073/i/2025/02/06/hwtx8.png"
+                  src="https://fileass.song3060.top/i/2025/02/06/hwtx8.png"
                   alt="我们的团队"
                   className="rounded-2xl shadow-2xl transform hover:scale-[1.02] transition-transform duration-300"
                 />
@@ -62,7 +62,7 @@ const About: React.FC = () => {
             </div>
             
             <a
-              href="https://cmxj.song3060.top/"
+              href="https://www.scmgzs.top"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center px-8 py-4 bg-white dark:bg-gray-800 hover:bg-gray-50 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200 font-medium rounded-xl border border-gray-200 dark:border-gray-600 transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl backdrop-blur-sm"
