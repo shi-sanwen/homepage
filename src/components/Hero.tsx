@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-500 to-purple-500 rounded-2xl blur opacity-25 group-hover:opacity-40 transition-opacity duration-500"></div>
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://s3.cdnjson.com/images/2025/02/06/DeWatermark.ai_1733563936763.png"
+                  src="https://webpicture.mini1.cn/20240926/103305e7b547c5-b271-5c63-1a15-bbcf03eb74a5.jpg"
                   alt="创梦星际"
                   className="w-full h-auto transform transition-transform duration-500 group-hover:scale-105"
                 />
