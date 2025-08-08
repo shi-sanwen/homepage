@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
             
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <a
-                href="https://www.scmgzs.top"
+                href="https://cmxj.song3060.top/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group relative inline-flex items-center justify-center px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-xl transition-all duration-300 transform hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#3b82f6]"
