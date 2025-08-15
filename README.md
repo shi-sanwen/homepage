@@ -82,6 +82,11 @@ src/
 - QQ: [点击联系](https://qm.qq.com/q/mf17BazQpW)
 - 邮箱: [2196634956@qq.com](mailto:2196634956@qq.com)
 
-## 📄 开源协议
+## 📄 版权与许可
 
-MIT License © 2025
+本作品采用 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 开源协议。
+
+版权所有 © 2025 创梦星际
+
+在遵守 Apache 2.0 协议的前提下，您可以自由地使用、复制、修改和分发本作品。  
+有关许可的详细信息，请访问 [Apache License 2.0 全文](http://www.apache.org/licenses/LICENSE-2.0)。
